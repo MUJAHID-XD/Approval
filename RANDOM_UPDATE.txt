@@ -1,1 +1,94 @@
-x
+Dalvik/2.1.0 (Linux; U; Android 13; SM-C297Z Build/QQ1D.121253.313)[FBAN/FB4A;FBAV/200.0.0.37.21;FBBV/30244998;FBDM/{density=1.5,width=1440,height=1440};FBLC/en_GB;FBCR/Mobilnk;FBMF/Samsung;FBBD/Samsung;FBPN/com.facebook.katana;FBDV/SM-C297Z;FBSV/4.2.5;FBOP/1;FBCA/armeabi-v7a:armeabi;]                  ----------------------------------------------------
+  User Agent 2: Dalvik/2.1.0 (Linux; U; Android 10; SM-P485X Build/PQ3A.118781.971)[FBAN/FB4A;FBAV/291.0.0.14.28;FBBV/37950311;FBDM/{density=1.0,width=1440,height=720};FBLC/en_PK;FBCR/Jazz;FBMF/redmi;FBBD/redmi;FBPN/com.facebook.adsmanager;FBDV/SM-P485X;FBSV/10.4.3;FBOP/1;FBCA/armeabi-v7a:armeabi;]
+----------------------------------------------------
+  User Agent 3: Dalvik/2.1.0 (Linux; U; Android 8; SM-S150D Build/PQ3A.956633.406)[FBAN/FB4A;FBAV/142.0.0.36.96;FBBV/42681870;FBDM/{density=3.0,width=1920,height=720};FBLC/en_US;FBCR/Cellcom;FBMF/Samsung;FBBD/Samsung;FBPN/com.facebook.orca;FBDV/SM-S150D;FBSV/12.2.2;FBOP/1;FBCA/armeabi-v7a:armeabi;]
+----------------------------------------------------
+  User Agent 4: Dalvik/2.1.0 (Linux; U; Android 14; SM-H386M Build/PQ3A.133980.424)[FBAN/FB4A;FBAV/215.0.0.20.56;FBBV/26074803;FBDM/{density=2.5,width=1440,height=1080};FBLC/id_ID;FBCR/Mobilnk;FBMF/redmi;FBBD/redmi;FBPN/com.facebook.orca;FBDV/SM-H386M;FBSV/8.4.3;FBOP/1;FBCA/armeabi-v7a:armeabi;]
+----------------------------------------------------
+  User Agent 5: Dalvik/2.1.0 (Linux; U; Android 8; SM-Q995Y Build/RQ2A.270944.817)[FBAN/FB4A;FBAV/245.0.0.19.11;FBBV/12167748;FBDM/{density=3.0,width=1440,height=1920};FBLC/en_US;FBCR/MTN-CG;FBMF/Xiaomic;FBBD/Xiaomic;FBPN/com.facebook.orca;FBDV/SM-Q995Y;FBSV/12.3.5;FBOP/1;FBCA/armeabi-v7a:armeabi;]
+----------------------------------------------------
+  User Agent 6: Dalvik/2.1.0 (Linux; U; Android 11; SM-A180A Build/PQ3A.212215.169)[FBAN/FB4A;FBAV/440.0.0.11.133;FBBV/43986149;FBDM/{density=1.5,width=1920,height=1920};FBLC/en_GB;FBCR/Salaam Telecom;FBMF/redmi;FBBD/redmi;FBPN/com.facebook.adsmanager;FBDV/SM-A180A;FBSV/13.0.4;FBOP/1;FBCA/armeabi-v7a:armeabi;]
+----------------------------------------------------
+  User Agent 7: Dalvik/2.1.0 (Linux; U; Android 13; SM-X174G Build/RQ2A.285598.151)[FBAN/FB4A;FBAV/383.0.0.13.95;FBBV/30191157;FBDM/{density=2.0,width=720,height=1440};FBLC/es_ES;FBCR/Cellcom;FBMF/oppo;FBBD/oppo;FBPN/com.facebook.katana;FBDV/SM-X174G;FBSV/11.4.3;FBOP/1;FBCA/armeabi-v7a:armeabi;]
+----------------------------------------------------
+  User Agent 8: Dalvik/2.1.0 (Linux; U; Android 9; SM-Q343U Build/QD4A.543927.891)[FBAN/FB4A;FBAV/209.0.0.4.132;FBBV/32021168;FBDM/{density=1.5,width=1080,height=720};FBLC/en_US;FBCR/Cellcom;FBMF/Samsung;FBBD/Samsung;FBPN/com.facebook.katana;FBDV/SM-Q343U;FBSV/7.2.5;FBOP/1;FBCA/armeabi-v7a:armeabi;]
+----------------------------------------------------
+  User Agent 9: Dalvik/2.1.0 (Linux; U; Android 10; SM-M619P Build/QD4A.301606.116)[FBAN/FB4A;FBAV/227.0.0.38.88;FBBV/33008531;FBDM/{density=1.5,width=1080,height=1440};FBLC/it_IT;FBCR/Jazz;FBMF/Samsung;FBBD/Samsung;FBPN/com.facebook.lite;FBDV/SM-M619P;FBSV/10.3.4;FBOP/1;FBCA/armeabi-v7a:armeabi;]
+----------------------------------------------------
+  User Agent 10: Dalvik/2.1.0 (Linux; U; Android 6; SM-Z107O Build/RP1A.269102.169)[FBAN/FB4A;FBAV/136.0.0.21.110;FBBV/41353037;FBDM/{density=1.0,width=1440,height=1440};FBLC/en_US;FBCR/MTN-CG;FBMF/Xiaomic;FBBD/Xiaomic;FBPN/com.facebook.orca;FBDV/SM-Z107O;FBSV/9.3.3;FBOP/1;FBCA/armeabi-v7a:armeabi;]
+----------------------------------------------------
+  User Agent 11: Dalvik/2.1.0 (Linux; U; Android 4; SM-C297Z Build/QQ1D.480675.120)[FBAN/FB4A;FBAV/198.0.0.26.19;FBBV/51149836;FBDM/{density=3.0,width=1440,height=1080};FBLC/ur_PK;FBCR/Jazz;FBMF/vivo;FBBD/vivo;FBPN/com.facebook.lite;FBDV/SM-C297Z;FBSV/12.5.4;FBOP/1;FBCA/armeabi-v7a:armeabi;]
+----------------------------------------------------
+  User Agent 12: Dalvik/2.1.0 (Linux; U; Android 14; SM-I593C Build/RP1A.292813.790)[FBAN/FB4A;FBAV/189.0.0.26.48;FBBV/35998263;FBDM/{density=1.5,width=720,height=2560};FBLC/en_GB;FBCR/Cellcom;FBMF/redmi;FBBD/redmi;FBPN/com.facebook.lite;FBDV/SM-I593C;FBSV/9.0.2;FBOP/1;FBCA/armeabi-v7a:armeabi;]
+----------------------------------------------------
+  User Agent 13: Dalvik/2.1.0 (Linux; U; Android 14; SM-E543H Build/QQ1D.504484.935)[FBAN/FB4A;FBAV/119.0.0.35.147;FBBV/29289295;FBDM/{density=1.5,width=1280,height=1080};FBLC/id_ID;FBCR/Cellcom;FBMF/oppo;FBBD/oppo;FBPN/com.facebook.adsmanager;FBDV/SM-E543H;FBSV/10.3.3;FBOP/1;FBCA/armeabi-v7a:armeabi;]
+----------------------------------------------------
+  User Agent 14: Dalvik/2.1.0 (Linux; U; Android 5; SM-V670M Build/RQ2A.950566.340)[FBAN/FB4A;FBAV/283.0.0.25.133;FBBV/17622203;FBDM/{density=1.0,width=1920,height=1080};FBLC/id_ID;FBCR/Cellcom;FBMF/Xiaomic;FBBD/Xiaomic;FBPN/com.facebook.orca;FBDV/SM-V670M;FBSV/12.1.4;FBOP/1;FBCA/armeabi-v7a:armeabi;]
+----------------------------------------------------
+  User Agent 15: Dalvik/2.1.0 (Linux; U; Android 4; SM-S354P Build/PQ3A.160580.641)[FBAN/FB4A;FBAV/275.0.0.31.131;FBBV/23773716;FBDM/{density=3.0,width=720,height=1280};FBLC/en_GB;FBCR/Jazz;FBMF/oppo;FBBD/oppo;FBPN/com.facebook.lite;FBDV/SM-S354P;FBSV/12.4.1;FBOP/1;FBCA/armeabi-v7a:armeabi;]
+----------------------------------------------------
+  User Agent 16: Dalvik/2.1.0 (Linux; U; Android 10; SM-U637R Build/QQ1D.149600.531)[FBAN/FB4A;FBAV/295.0.0.22.13;FBBV/62257976;FBDM/{density=3.0,width=1440,height=1080};FBLC/en_PK;FBCR/Zong;FBMF/Xiaomic;FBBD/Xiaomic;FBPN/com.facebook.lite;FBDV/SM-U637R;FBSV/10.1.2;FBOP/1;FBCA/armeabi-v7a:armeabi;]
+----------------------------------------------------
+  User Agent 17: Dalvik/2.1.0 (Linux; U; Android 6; SM-G403Y Build/PQ3A.979771.135)[FBAN/FB4A;FBAV/213.0.0.2.127;FBBV/38936205;FBDM/{density=2.5,width=1920,height=1280};FBLC/es_ES;FBCR/MTN-CG;FBMF/Xiaomic;FBBD/Xiaomic;FBPN/com.facebook.orca;FBDV/SM-G403Y;FBSV/13.3.4;FBOP/1;FBCA/armeabi-v7a:armeabi;]
+----------------------------------------------------
+  User Agent 18: Dalvik/2.1.0 (Linux; U; Android 6; SM-L600X Build/RP1A.624094.234)[FBAN/FB4A;FBAV/441.0.0.17.72;FBBV/18378882;FBDM/{density=3.0,width=1280,height=1440};FBLC/ru_RU;FBCR/Cellcom;FBMF/Xiaomic;FBBD/Xiaomic;FBPN/com.facebook.lite;FBDV/SM-L600X;FBSV/4.5.2;FBOP/1;FBCA/armeabi-v7a:armeabi;]
+----------------------------------------------------
+  User Agent 19: Dalvik/2.1.0 (Linux; U; Android 11; SM-H143V Build/RP1A.423495.372)[FBAN/FB4A;FBAV/428.0.0.32.105;FBBV/42565990;FBDM/{density=2.5,width=1920,height=720};FBLC/es_ES;FBCR/Mobilnk;FBMF/Samsung;FBBD/Samsung;FBPN/com.facebook.orca;FBDV/SM-H143V;FBSV/6.3.3;FBOP/1;FBCA/armeabi-v7a:armeabi;]
+----------------------------------------------------
+  User Agent 20: Dalvik/2.1.0 (Linux; U; Android 4; SM-D182C Build/PQ3A.112156.418)[FBAN/FB4A;FBAV/357.0.0.8.109;FBBV/58831120;FBDM/{density=2.0,width=1440,height=720};FBLC/ru_RU;FBCR/Cellcom;FBMF/vivo;FBBD/vivo;FBPN/com.facebook.orca;FBDV/SM-D182C;FBSV/10.5.2;FBOP/1;FBCA/armeabi-v7a:armeabi;]
+----------------------------------------------------
+  User Agent 21: Dalvik/2.1.0 (Linux; U; Android 13; SM-Q576G Build/PQ3A.855913.199)[FBAN/FB4A;FBAV/325.0.0.5.66;FBBV/60575909;FBDM/{density=3.0,width=1920,height=1920};FBLC/id_ID;FBCR/MTN-CG;FBMF/Xiaomic;FBBD/Xiaomic;FBPN/com.facebook.adsmanager;FBDV/SM-Q576G;FBSV/11.0.2;FBOP/1;FBCA/armeabi-v7a:armeabi;]
+----------------------------------------------------
+  User Agent 22: Dalvik/2.1.0 (Linux; U; Android 9; SM-X801O Build/PQ3A.949798.747)[FBAN/FB4A;FBAV/346.0.0.10.99;FBBV/58425404;FBDM/{density=3.0,width=1080,height=1920};FBLC/es_ES;FBCR/Zong;FBMF/Xiaomic;FBBD/Xiaomic;FBPN/com.facebook.adsmanager;FBDV/SM-X801O;FBSV/9.1.2;FBOP/1;FBCA/armeabi-v7a:armeabi;]
+----------------------------------------------------
+  User Agent 23: Dalvik/2.1.0 (Linux; U; Android 13; SM-G200V Build/RQ2A.636873.941)[FBAN/FB4A;FBAV/224.0.0.7.149;FBBV/13275944;FBDM/{density=2.0,width=720,height=1080};FBLC/id_ID;FBCR/Jazz;FBMF/oppo;FBBD/oppo;FBPN/com.facebook.katana;FBDV/SM-G200V;FBSV/11.3.3;FBOP/1;FBCA/armeabi-v7a:armeabi;]
+----------------------------------------------------
+  User Agent 24: Dalvik/2.1.0 (Linux; U; Android 10; SM-S067L Build/PQ3A.729288.544)[FBAN/FB4A;FBAV/194.0.0.6.143;FBBV/20064294;FBDM/{density=3.0,width=1080,height=1440};FBLC/en_GB;FBCR/MTN-CG;FBMF/Xiaomic;FBBD/Xiaomic;FBPN/com.facebook.lite;FBDV/SM-S067L;FBSV/12.0.2;FBOP/1;FBCA/armeabi-v7a:armeabi;]
+----------------------------------------------------
+  User Agent 25: Dalvik/2.1.0 (Linux; U; Android 5; SM-G169P Build/PQ3A.181884.289)[FBAN/FB4A;FBAV/238.0.0.25.63;FBBV/59259170;FBDM/{density=2.5,width=1920,height=1920};FBLC/ru_RU;FBCR/Salaam Telecom;FBMF/Xiaomic;FBBD/Xiaomic;FBPN/com.facebook.orca;FBDV/SM-G169P;FBSV/13.5.4;FBOP/1;FBCA/armeabi-v7a:armeabi;]
+----------------------------------------------------
+  User Agent 26: Dalvik/2.1.0 (Linux; U; Android 7; SM-G822H Build/RQ2A.239344.703)[FBAN/FB4A;FBAV/376.0.0.3.68;FBBV/36306550;FBDM/{density=3.0,width=1080,height=1280};FBLC/it_IT;FBCR/Zong;FBMF/oppo;FBBD/oppo;FBPN/com.facebook.lite;FBDV/SM-G822H;FBSV/10.0.3;FBOP/1;FBCA/armeabi-v7a:armeabi;]
+----------------------------------------------------
+  User Agent 27: Dalvik/2.1.0 (Linux; U; Android 15; SM-G507X Build/PQ3A.242836.521)[FBAN/FB4A;FBAV/241.0.0.25.22;FBBV/26323113;FBDM/{density=2.0,width=1440,height=720};FBLC/it_IT;FBCR/Zong;FBMF/Xiaomic;FBBD/Xiaomic;FBPN/com.facebook.adsmanager;FBDV/SM-G507X;FBSV/12.3.4;FBOP/1;FBCA/armeabi-v7a:armeabi;]
+----------------------------------------------------
+  User Agent 28: Dalvik/2.1.0 (Linux; U; Android 12; SM-L600X Build/PQ3A.439413.234)[FBAN/FB4A;FBAV/257.0.0.27.122;FBBV/51774063;FBDM/{density=2.0,width=720,height=3840};FBLC/es_ES;FBCR/Mobilnk;FBMF/Xiaomic;FBBD/Xiaomic;FBPN/com.facebook.lite;FBDV/SM-L600X;FBSV/13.3.1;FBOP/1;FBCA/armeabi-v7a:armeabi;]
+----------------------------------------------------
+  User Agent 29: Dalvik/2.1.0 (Linux; U; Android 8; SM-M093A Build/PQ3A.490461.253)[FBAN/FB4A;FBAV/314.0.0.35.55;FBBV/17331538;FBDM/{density=1.5,width=1440,height=2560};FBLC/it_IT;FBCR/Salaam Telecom;FBMF/oppo;FBBD/oppo;FBPN/com.facebook.orca;FBDV/SM-M093A;FBSV/8.1.3;FBOP/1;FBCA/armeabi-v7a:armeabi;]
+----------------------------------------------------
+  User Agent 30: Dalvik/2.1.0 (Linux; U; Android 10; SM-Z679E Build/RQ2A.755696.856)[FBAN/FB4A;FBAV/130.0.0.39.17;FBBV/27065673;FBDM/{density=1.0,width=1280,height=1280};FBLC/en_GB;FBCR/Mobilnk;FBMF/oppo;FBBD/oppo;FBPN/com.facebook.lite;FBDV/SM-Z679E;FBSV/8.3.5;FBOP/1;FBCA/armeabi-v7a:armeabi;]
+----------------------------------------------------
+  User Agent 31: Dalvik/2.1.0 (Linux; U; Android 14; SM-L536Y Build/RP1A.596166.675)[FBAN/FB4A;FBAV/268.0.0.32.37;FBBV/56231206;FBDM/{density=1.0,width=1920,height=1920};FBLC/ur_PK;FBCR/Mobilnk;FBMF/redmi;FBBD/redmi;FBPN/com.facebook.orca;FBDV/SM-L536Y;FBSV/7.1.5;FBOP/1;FBCA/armeabi-v7a:armeabi;]
+----------------------------------------------------
+  User Agent 32: Dalvik/2.1.0 (Linux; U; Android 8; SM-S067L Build/QD4A.564713.161)[FBAN/FB4A;FBAV/443.0.0.11.76;FBBV/30279222;FBDM/{density=3.0,width=1440,height=720};FBLC/en_US;FBCR/Ufone;FBMF/Samsung;FBBD/Samsung;FBPN/com.facebook.adsmanager;FBDV/SM-S067L;FBSV/12.3.5;FBOP/1;FBCA/armeabi-v7a:armeabi;]
+----------------------------------------------------
+  User Agent 33: Dalvik/2.1.0 (Linux; U; Android 10; SM-H270F Build/RQ2A.559081.884)[FBAN/FB4A;FBAV/250.0.0.4.46;FBBV/58100810;FBDM/{density=1.5,width=1440,height=1920};FBLC/ru_RU;FBCR/Salaam Telecom;FBMF/vivo;FBBD/vivo;FBPN/com.facebook.lite;FBDV/SM-H270F;FBSV/5.3.2;FBOP/1;FBCA/armeabi-v7a:armeabi;]
+----------------------------------------------------
+  User Agent 34: Dalvik/2.1.0 (Linux; U; Android 7; SM-I787D Build/RP1A.817938.366)[FBAN/FB4A;FBAV/344.0.0.6.141;FBBV/65819414;FBDM/{density=1.5,width=1280,height=720};FBLC/en_PK;FBCR/Zong;FBMF/Samsung;FBBD/Samsung;FBPN/com.facebook.lite;FBDV/SM-I787D;FBSV/12.3.1;FBOP/1;FBCA/armeabi-v7a:armeabi;]
+----------------------------------------------------
+  User Agent 35: Dalvik/2.1.0 (Linux; U; Android 7; SM-N731T Build/QQ1D.690254.894)[FBAN/FB4A;FBAV/264.0.0.15.119;FBBV/58635819;FBDM/{density=1.0,width=1080,height=3840};FBLC/ru_RU;FBCR/Zong;FBMF/vivo;FBBD/vivo;FBPN/com.facebook.adsmanager;FBDV/SM-N731T;FBSV/11.0.2;FBOP/1;FBCA/armeabi-v7a:armeabi;]
+----------------------------------------------------
+  User Agent 36: Dalvik/2.1.0 (Linux; U; Android 15; SM-Z679E Build/RQ2A.282845.244)[FBAN/FB4A;FBAV/367.0.0.18.103;FBBV/15484885;FBDM/{density=3.0,width=1920,height=1280};FBLC/en_US;FBCR/Zong;FBMF/redmi;FBBD/redmi;FBPN/com.facebook.orca;FBDV/SM-Z679E;FBSV/13.2.1;FBOP/1;FBCA/armeabi-v7a:armeabi;]
+----------------------------------------------------
+  User Agent 37: Dalvik/2.1.0 (Linux; U; Android 7; SM-U111M Build/PQ3A.244640.732)[FBAN/FB4A;FBAV/321.0.0.24.105;FBBV/55267832;FBDM/{density=2.0,width=1440,height=720};FBLC/id_ID;FBCR/Jazz;FBMF/redmi;FBBD/redmi;FBPN/com.facebook.lite;FBDV/SM-U111M;FBSV/12.2.3;FBOP/1;FBCA/armeabi-v7a:armeabi;]
+
+Dalvik/2.1.0 (Linux; U; Android 9; SM-S236Q Build/RQ2A.541634.258)[FBAN/FB4A;FBAV/335.0.0.8.46;FBBV/29742056;FBDM/{density=1.0,width=1280,height=1280};FBLC/en_GB;FBCR/Salaam Telecom;FBMF/oppo;FBBD/oppo;FBPN/com.facebook.lite;FBDV/SM-S236Q;FBSV/5.1.5;FBOP/1;FBCA/armeabi-v7a:armeabi;]
+
+Dalvik/2.1.0 (Linux; U; Android 9; SM-I787D Build/PQ3A.381929.553)[FBAN/FB4A;FBAV/371.0.0.28.112;FBBV/27113382;FBDM/{density=2.5,width=1280,height=1440};FBLC/en_PK;FBCR/Mobilnk;FBMF/vivo;FBBD/vivo;FBPN/com.facebook.lite;FBDV/SM-I787D;FBSV/6.3.5;FBOP/1;FBCA/armeabi-v7a:armeabi;]
+
+Dalvik/2.1.0 (Linux; U; Android 15; SM-I847H Build/PQ3A.849822.819)[FBAN/FB4A;FBAV/153.0.0.24.43;FBBV/12219797;FBDM/{density=1.5,width=720,height=3840};FBLC/ru_RU;FBCR/Salaam Telecom;FBMF/Xiaomic;FBBD/Xiaomic;FBPN/com.facebook.lite;FBDV/SM-I847H;FBSV/11.1.4;FBOP/1;FBCA/armeabi-v7a:armeabi;]
+
+Dalvik/2.1.0 (Linux; U; Android 10; SM-S853U Build/RP1A.602124.577)[FBAN/FB4A;FBAV/271.0.0.24.143;FBBV/25297383;FBDM/{density=2.5,width=720,height=1280};FBLC/id_ID;FBCR/MTN-CG;FBMF/redmi;FBBD/redmi;FBPN/com.facebook.lite;FBDV/SM-S853U;FBSV/5.2.2;FBOP/1;FBCA/armeabi-v7a:armeabi;]
+
+Dalvik/2.1.0 (Linux; U; Android 8; SM-Y318K Build/RQ2A.529612.313)[FBAN/FB4A;FBAV/295.0.0.29.16;FBBV/56597223;FBDM/{density=2.0,width=1280,height=1080};FBLC/es_ES;FBCR/Salaam Telecom;FBMF/Xiaomic;FBBD/Xiaomic;FBPN/com.facebook.orca;FBDV/SM-Y318K;FBSV/5.1.1;FBOP/1;FBCA/armeabi-v7a:armeabi;]
+
+Dalvik/2.1.0 (Linux; U; Android 4; SM-I787D Build/RQ2A.321053.676)[FBAN/FB4A;FBAV/414.0.0.26.140;FBBV/48631035;FBDM/{density=2.5,width=720,height=1440};FBLC/en_GB;FBCR/Mobilnk;FBMF/oppo;FBBD/oppo;FBPN/com.facebook.katana;FBDV/SM-I787D;FBSV/9.3.2;FBOP/1;FBCA/armeabi-v7a:armeabi;]
+
+Dalvik/2.1.0 (Linux; U; Android 9; SM-N100L Build/PQ3A.670196.279)[FBAN/FB4A;FBAV/349.0.0.40.119;FBBV/28199376;FBDM/{density=3.0,width=720,height=720};FBLC/es_ES;FBCR/Salaam Telecom;FBMF/vivo;FBBD/vivo;FBPN/com.facebook.lite;FBDV/SM-N100L;FBSV/6.1.1;FBOP/1;FBCA/armeabi-v7a:armeabi;]
+
+Dalvik/2.1.0 (Linux; U; Android 4; SM-A180A Build/RP1A.452698.128)[FBAN/FB4A;FBAV/225.0.0.22.16;FBBV/28880663;FBDM/{density=2.0,width=1440,height=1080};FBLC/id_ID;FBCR/Salaam Telecom;FBMF/Xiaomic;FBBD/Xiaomic;FBPN/com.facebook.katana;FBDV/SM-A180A;FBSV/11.3.2;FBOP/1;FBCA/armeabi-v7a:armeabi;]
+
+Dalvik/2.1.0 (Linux; U; Android 9; SM-B611V Build/RQ2A.603247.160)[FBAN/FB4A;FBAV/403.0.0.9.142;FBBV/26204075;FBDM/{density=2.5,width=1440,height=2560};FBLC/es_ES;FBCR/Mobilnk;FBMF/Samsung;FBBD/Samsung;FBPN/com.facebook.katana;FBDV/SM-B611V;FBSV/6.4.4;FBOP/1;FBCA/armeabi-v7a:armeabi;]
+
+Dalvik/2.1.0 (Linux; U; Android 4; SM-L536Y Build/QD4A.142773.322)[FBAN/FB4A;FBAV/230.0.0.20.38;FBBV/63440706;FBDM/{density=2.5,width=720,height=2560};FBLC/ru_RU;FBCR/Jazz;FBMF/Samsung;FBBD/Samsung;FBPN/com.facebook.lite;FBDV/SM-L536Y;FBSV/12.1.2;FBOP/1;FBCA/armeabi-v7a:armeabi;]
+
+Dalvik/2.1.0 (Linux; U; Android 6; SM-D512U Build/QQ1D.710258.246)[FBAN/FB4A;FBAV/390.0.0.33.144;FBBV/44314963;FBDM/{density=1.5,width=1920,height=1080};FBLC/en_GB;FBCR/MTN-CG;FBMF/redmi;FBBD/redmi;FBPN/com.facebook.orca;FBDV/SM-D512U;FBSV/7.5.1;FBOP/1;FBCA/armeabi-v7a:armeabi;]
